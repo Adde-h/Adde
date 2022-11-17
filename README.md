@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Adeel Hussain</h1>
-<h3 align="center">Third year student in Information Technology at KTH, Stockholm, Sweden</h3>
+<h3 align="center">Masters student in Cybersecurity at KTH, Stockholm, Sweden</h3>
 
 </br>
 <h3 align="center">Connect with me:</h3>
